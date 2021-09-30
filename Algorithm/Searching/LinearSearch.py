@@ -1,5 +1,5 @@
 elmnts = [3, 9, 8, 2, 1, 4, 6, 5, 7]
-search = -1
+search = 6
 found = False
 index = 0
 while index < len(elmnts):
