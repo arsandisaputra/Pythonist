@@ -9,4 +9,4 @@ while index < len(elmnts):
         break
     index += 1
 if not found:
-    print(search, 'not founded!')
+    print(search, 'not found!')
